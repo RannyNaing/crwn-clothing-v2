@@ -13,7 +13,6 @@ const CategoryItem = ({ category }) => {
       <div className="category-body-container">
         <h2>{title}</h2>
         <p>Shop Now</p>
-        <h1>Hello World</h1>
       </div>
     </div>
   );
